@@ -3,11 +3,9 @@
 Bienvenido al repositorio de este proyecto. Esta propuesta tecnológica consiste en un prototipo funcional diseñado para la difusión y el aprendizaje del patrimonio histórico peruano mediante la virtualización.
 
 ## 💻 Descargar y Jugar (PC)
-[Descargar el Juego para Windows (RAR) aquí](https://github.com/Rodri-27/Museo-Virtual-3D/releases/download/v1.0/Museo.rar)
+[Descargar el Juego para Windows (RAR) aquí](https://github.com/Rodri-27/Museo-Virtual/releases/download/v1.0/Museo.rar)
 
 *(Instrucciones: Descarga el archivo RAR, haz clic derecho sobre él, selecciona "Extraer aquí" o "Extraer en Museo\" y luego entra a la carpeta extraída para ejecutar el archivo .exe e iniciar el recorrido).*
-
-*(Instrucciones: Descarga el archivo ZIP, extráelo en una carpeta de tu computadora y ejecuta el archivo .exe para iniciar el recorrido).*
 
 ## 💡 El Motivo del Proyecto
 Esta iniciativa busca ofrecer una solución innovadora ante la pasividad de los métodos tradicionales de aprendizaje de la historia[cite: 1]. El objetivo central es construir un entorno interactivo que rompa la pasividad contemplativa, permitiendo que el usuario explore autónomamente para generar un vínculo emocional y mejorar la retención de la información histórica[cite: 1].
