@@ -1,8 +1,5 @@
 # 🏛️ Desarrollo de un Museo Virtual Interactivo en 3D para la Difusión y Aprendizaje del Patrimonio Histórico Peruano[cite: 1]
 
-**Autores:** Mori Julca, Andy Johan; Romero Soto, Rodrigo Alfonso; Roman Samame, Jeremmy Snayder; Soto Guadiamus, Jairo Giordano[cite: 1].
-**Asesor:** Dante Gonzalo Sacravilca Narciso[cite: 1].
-
 Bienvenido al repositorio de este proyecto de investigación aplicada[cite: 1]. Esta propuesta tecnológica consiste en un prototipo funcional diseñado para democratizar el acceso al patrimonio cultural mediante la virtualización[cite: 1].
 
 ## 💻 Descargar y Jugar (PC)
